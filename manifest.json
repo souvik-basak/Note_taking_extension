@@ -1,7 +1,7 @@
 {
-    "name": "Note Taker",
+    "name": "QuickNotes",
     "version": "1.0.0",
-    "description": "A simple note-taking extension",
+    "description": "A Handy Note-Taking Companion",
     "manifest_version": 3,
     "author": "Souvik Basak",
     "action": {
