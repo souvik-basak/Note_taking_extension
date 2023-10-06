@@ -1,0 +1,16 @@
+{
+    "name": "Note Taker",
+    "version": "1.0.0",
+    "description": "A simple note-taking extension",
+    "manifest_version": 3,
+    "author": "Souvik Basak",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.svg",
+        "default_title": "My Chrome Extension"
+    },
+    "icons": {
+        "128": "logo.svg"
+    },
+    "permissions": ["activeTab","storage"]
+}
